@@ -28,9 +28,8 @@ A simple and efficient QR Code Generator built using **Node.js** and **JavaScrip
 
 1. **Clone the repository**
 
-bash
-git clone https://github.com/your-username/qr-code-generator.git
-cd qr-code-generator
+  git clone https://github.com/your-username/qr-code-generator.git
+  cd qr-code-generator
 
 2. Install dependencies  
   npm install
